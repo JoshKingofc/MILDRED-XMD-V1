@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@joshuamambo1"> 
-    <img src="https://github.com/Joshuamambo1/MILDRED-XMD-V1/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://i.postimg.cc/4NdSqms8/MidKing.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -20,7 +20,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork the Mildred-Xmd-v1 Bot repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/Joshuamambo1/MILDRED-XMD-V1fork">
