@@ -7,15 +7,7 @@
   "logo": "https://files.catbox.moe/cik12y.jpg`",
   "repository": "https://github.com/Joshuamambo1/MILDRED-XMD",
   "succes_url": "/",
-
-  "stack": "container",
-  "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true,
-      "value": ""
-    },  
-    
+},  
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
@@ -106,7 +98,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "26373836XXXX"
  },
 
     "BOT_NAME": {
