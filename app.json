@@ -3,7 +3,9 @@
   "description": "Javascript WhatsApp bot made by MKURU BRAIN.",
   "keywords": ["MILDRED-XMD"],
   
-  
+ 
+  "stack": "container",
+  "env": { 
   "logo": "https://files.catbox.moe/cik12y.jpg`",
   "repository": "https://github.com/Joshuamambo1/MILDRED-XMD",
   "succes_url": "/",
